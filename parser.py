@@ -24,7 +24,7 @@ async def main():
     print('Connected to account')
 
     #   Указывает ссылку на группу или канал
-    group_link = 'https://t.me/Kali_Linux_Pentest'
+    group_link = input()
     entity = await client.get_entity(group_link)
 
 
