@@ -5,9 +5,9 @@ from telethon.tl.types import ChannelParticipantsSearch
 
 
 #   Сюда нужно вставить API ID и API HASH c сайта https://my.telegram.org/auth
-api_id = ''
-api_hash = ''
-phone = ''
+api_id = 'YOUR_API_ID'
+api_hash = 'YOUR_API_HASH'
+phone = 'YOUR_PHONE'
 
 
 #   Имя файла сессии
